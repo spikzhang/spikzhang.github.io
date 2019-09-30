@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Outstanding Rocks</title>
+    <link>https://theoutstanding.rocks/post/</link>
+    <description>Recent content in Posts on Outstanding Rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 21 Sep 2019 20:41:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://theoutstanding.rocks/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Family</title>
+      <link>https://theoutstanding.rocks/post/family/</link>
+      <pubDate>Sat, 21 Sep 2019 20:41:58 +0800</pubDate>
+      
+      <guid>https://theoutstanding.rocks/post/family/</guid>
+      <description>满月</description>
+    </item>
+    
+    <item>
+      <title>Baby with ciuciu</title>
+      <link>https://theoutstanding.rocks/post/test/</link>
+      <pubDate>Sat, 21 Sep 2019 04:38:24 +0800</pubDate>
+      
+      <guid>https://theoutstanding.rocks/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

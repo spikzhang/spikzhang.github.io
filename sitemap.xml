@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://theoutstanding.rocks/categories/</loc>
+    <lastmod>2019-09-21T20:41:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/post/family/</loc>
+    <lastmod>2019-09-21T20:41:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/categories/picture/</loc>
+    <lastmod>2019-09-21T20:41:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/post/</loc>
+    <lastmod>2019-09-21T20:41:58+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/post/test/</loc>
+    <lastmod>2019-09-21T04:38:24+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/</loc>
+    <lastmod>2019-08-25T00:52:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/about/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://theoutstanding.rocks/tags/</loc>
+  </url>
+  
+</urlset>

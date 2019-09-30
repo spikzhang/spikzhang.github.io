@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Outstanding Rocks</title>
+    <link>https://theoutstanding.rocks/categories/</link>
+    <description>Recent content in Categories on Outstanding Rocks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 21 Sep 2019 20:41:58 +0800</lastBuildDate>
+    
+	<atom:link href="https://theoutstanding.rocks/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Picture</title>
+      <link>https://theoutstanding.rocks/categories/picture/</link>
+      <pubDate>Sat, 21 Sep 2019 20:41:58 +0800</pubDate>
+      
+      <guid>https://theoutstanding.rocks/categories/picture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
